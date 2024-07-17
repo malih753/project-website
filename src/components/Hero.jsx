@@ -38,15 +38,15 @@ function Hero() {
                 happen.
               </p>
             </div>
-            <div className="max-w-full  p-6 bg-[rgba(138,138,138,0.12)] rounded-lg " >
-              <div className="w-[400px] pb-6">
+            <div className="  p-6 bg-[rgba(138,138,138,0.12)] rounded-lg sm:w-[470px]" >
+              <div className="w-[320px] pb-6">
                 <h1
                   style={{ fontFamily: "clashSemiBold" }}
                   className="text-[rgba(255,0,0,1)] pb-2 font-semibold text-[24px] leading-[29.52px]"
                 >
                   Kickstart your business!!
                 </h1>
-                <p className="text-[16px] leading-[18.24px] text-[rgba(255,255,255,0.4)] w-[340px] md:w-[340px] sm:w-[230px]">
+                <p className="text-[16px] leading-[18.24px] text-[rgba(255,255,255,0.4)] w-[324px] md:w-[420px] sm:w-[230px]">
                   Fill in the details below and our team will get back to you in
                   no time
                 </p>

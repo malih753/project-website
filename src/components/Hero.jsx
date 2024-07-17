@@ -46,7 +46,7 @@ function Hero() {
                 >
                   Kickstart your business!!
                 </h1>
-                <p className="text-[16px] leading-[18.24px] text-[rgba(255,255,255,0.4)] w-[340px] md: w-[420px] sm:w-[320px]">
+                <p className="text-[16px] leading-[18.24px] text-[rgba(255,255,255,0.4)] w-[340px] md:w-[340px] sm:w-[230px]">
                   Fill in the details below and our team will get back to you in
                   no time
                 </p>
